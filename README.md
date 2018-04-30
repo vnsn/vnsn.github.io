@@ -41,4 +41,4 @@ The biggest thing I learned is that if you are making a trivia game app, either 
 * Add user accounts so scores can be saved and "high score" can be shown.
 
 # Contact
-You can contact me on [LinkedIn](http://www.linkedin.com/jvnsn/)
+You can contact me on [LinkedIn](https://www.linkedin.com/in/jvnsn/)
