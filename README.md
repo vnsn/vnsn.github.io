@@ -1,4 +1,4 @@
-# About Me
+# Jen Evenson
 I'm a full-stack web developer, versed in Node.js, JavaScript, HTML, CSS, Express, MongoDB, Mongoose, React, Redux, and Thunk.
 
 # Projects
